@@ -1,0 +1,1293 @@
+{
+ "country": "RU-DA",
+ "acts": [
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "55680aaadafb46817a356da17c3dc807ece696c25e51a70504147b3cc2737df1"
+    },
+    {
+     "from": "2016-03-16",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "80ad547e19de05adf960325f4e562f5e23833fbc7208c72895cbd3d486f0617c"
+    },
+    {
+     "from": "2016-03-21",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b479e846646f05fb43c47246630c2ec9a9fc39228f9c7142352d0ee9b76c9556"
+    },
+    {
+     "from": "2016-04-01",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3cdcb4848c9a1c2cf055aba265fbcaac206a8f7bc55fd54b1e636ceb157b7380"
+    },
+    {
+     "from": "2016-04-08",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4b347f64f0ce35e07f7baf938fa3f6400b9a7bc0bd713d18eadaac23b696bc7c"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7c253521ec170e6556818f8c4c9545f03b5bb7f39ee182b124ca5025fd1af98c"
+    },
+    {
+     "from": "2016-05-12",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f0c78b8a886b01f44c78d8e5296941b00551f6822c1c1b64045026229c2f27f9"
+    },
+    {
+     "from": "2016-05-13",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "8933a095ae5800c71bdc024f25f8a63d546716e35ed75f6337d8a38ca58fe7ef"
+    },
+    {
+     "from": "2016-05-25",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9dac3a048ee789d48e9082a8c2bbc2d4d9d3a2242cb1c41242655891f295adfa"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3a059df905d2c1c65e3fa11ea917df866ceb9a7f8e06c40dd2c74aae7f6ee208"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "5cdef051f803df0ed317eb24d1866150fa7514dce4733de481c8978d3139417e"
+    },
+    {
+     "from": "2016-06-02",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "37c25fc5d52a21f649acdf5862c19f67bd53e7ccfcd1144b99e5e0a10dcb6bb3"
+    },
+    {
+     "from": "2016-06-17",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7feca0050ccb697c059d48989c29d745277d169c29e9b42d7661216f8b8a7d6a"
+    },
+    {
+     "from": "2016-06-23",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "455b7d62246cfb9b6e5c32cb3882854166a78bc1bab6b222c746ba1bfd927a00"
+    },
+    {
+     "from": "2016-06-28",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "961043bdeab5f2eadbd9d6b6ff8d9fa51741b2d8a9f7ed59784a7c9c8f9bb5d6"
+    },
+    {
+     "from": "2016-11-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "c76e0e0307489c0edcc0012ce8200ff0c42317eb26b777ad1cc6d26e4285e61d"
+    },
+    {
+     "from": "2016-11-10",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9f53c15bd5f557c912fda61c602bdfb93b016562cab340ddfb37ee628a176560"
+    },
+    {
+     "from": "2016-11-11",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f6ef253ee1d3ea9e238315e5142de2ff766a15e5c09660b5e42ba20e652bba71"
+    },
+    {
+     "from": "2016-11-30",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7f674246b64a066b61453696ce881125a280728f792c0d48e9de467e8a5ef904"
+    },
+    {
+     "from": "2016-12-06",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6ffee37ed9551c8b7e95b30fb9ad35b848746cc96284493d788448a6095c9c68"
+    },
+    {
+     "from": "2016-12-07",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a80fb90e3966c8e7737b2fd32be3337e43c329c4211c6e1e64e08996cfb752f4"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "210579baf923a3d54d201b571b49d3bc052ed4944de1e9ac0618dc76521540fd"
+    },
+    {
+     "from": "2016-12-27",
+     "units": 63,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "8654be010f1846ad5b476fb529e367f55a75d45ac15c724de1a70cf5ae4220c2"
+    },
+    {
+     "from": "2016-12-29",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "278913178d80ac2f0cdb2063a06f7a35755ca9db4800d297999e710aa17ac78b"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2017-02-03",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4e6ad3d94ec739cdaf1e980ebb56fc2e09eac9ce7a63642f8e1eeea81edbc278"
+    },
+    {
+     "from": "2017-02-06",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f5ff0c795cc668457c0b0ba537879651c53344f728ab7c522474eda6e427722d"
+    },
+    {
+     "from": "2017-03-13",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "d36e2d1abc59b53768e021dd9b907517796357d03f33b6ad0f17f119beb02f02"
+    },
+    {
+     "from": "2017-04-11",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "69980f9fb7d77b826728ed8bf4008ae8eb7beb8135ce6647019abc1bab6554a5"
+    },
+    {
+     "from": "2017-04-14",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4a32af434ca7b8e700a3cb335893beef51a3c19623c8c5170cbc8994b6d1dc7b"
+    },
+    {
+     "from": "2017-05-12",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "fc7acbc372bbe32a9233e672ac46e59424c493aeb5df473cee1f72ac28bc6825"
+    },
+    {
+     "from": "2017-05-15",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7be6d8c1e9987c088d744826bc0d1b3063f264c6be9f3d6a300da4126b58e873"
+    },
+    {
+     "from": "2017-06-06",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "550ce20ba041f3f26214d5da70b62b583efa796e28a3551d3543b319f1d5209d"
+    },
+    {
+     "from": "2017-06-08",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "092a263c104a0a58c4762613a6ef7f0056ded72067a5209620108e5339f17263"
+    },
+    {
+     "from": "2017-07-03",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "79ebc5f30ec68e3070c0f6ff535597c49e713743ff7abb9e32e97cd12261a372"
+    },
+    {
+     "from": "2017-10-06",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "1a978437d980346145608c8136e43afe0e75935043ac5fe12e74a1ec48f2db65"
+    },
+    {
+     "from": "2017-10-09",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bf9f4cb7ccce66092064bcfd0988289df745f34f38fec126b0693abae377a1a0"
+    },
+    {
+     "from": "2017-11-08",
+     "units": 77,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a3873fa6f28219794762f18b9382ecfe39b59fac1d79a99626ed7010e90aa023"
+    },
+    {
+     "from": "2017-11-10",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "1fbfc7f795442acb1e94d3e8d4dd230a122114b81754cb5ede7d3d2e98d43641"
+    },
+    {
+     "from": "2017-12-15",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "41388e5548923d6152c1411fbfd1324c143e5a518e7e2b273db540298998631f"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "29f2f6f59800875d044203827e55eed45aea57e286ee2c2d2e32566c969c5ac4"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "280bedd29d7490833781488ad1b82460b7ba4312225c49ed35d0563ff2dc5cc6"
+    },
+    {
+     "from": "2018-02-05",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "8fc8504c0821c9394cfb2b89620dbcff32a84b43fbd2f29321d688f260708257"
+    },
+    {
+     "from": "2018-02-08",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ff54269e548dee397a0577cee63174b6f68e26f980e467b20d1e47f994077d7b"
+    },
+    {
+     "from": "2018-03-07",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "46ae72361ea2df1fb5b873aa35931d73a578aa1904a23cafca4133b3fcc9414e"
+    },
+    {
+     "from": "2018-03-14",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9c077cf19f5ed2e34e341d66f2a2dad07932566652aa3135213ea437811e85f5"
+    },
+    {
+     "from": "2018-04-09",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e9b4da5df1aff5bfd11f963865cd881853ec0cfcc99b5b8a4532690251ef7c59"
+    },
+    {
+     "from": "2018-04-19",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ed92661ade93e889ef6ba1f87cdab335fb2cb50b585bc5c8b7fa43d749bf1068"
+    },
+    {
+     "from": "2018-05-08",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a407a11a90df397da41525b1e8db130501d58eaa91ba9012eace318b0c9335ad"
+    },
+    {
+     "from": "2018-05-17",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "09d4a39598124934762cf985f7a1da8ac007dbf65fb3a7cd4f5ce8be2ae29de1"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b1b59bab9088c12fce7abd0322e4ed281442734c461d4b58d4044c9674ff0d9b"
+    },
+    {
+     "from": "2018-06-18",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e01405b329f974f16540745b761f5f8d277e72e03f4b639f5d81a8e1ab9de55d"
+    },
+    {
+     "from": "2018-07-09",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a1b0686e1087cb45e350421a82bab4cab31f48efb7e497dcc781556e833c3634"
+    },
+    {
+     "from": "2018-07-17",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "cf62ea1ee7cabe79ab1a4e0e58dc3f9a5d7469ccb025a62656d8ca87d999250f"
+    },
+    {
+     "from": "2018-10-08",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3cdab1a6548ad2ff86d60346d146eae15502970d3f6899334774b87ddf55864a"
+    },
+    {
+     "from": "2018-10-31",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "d9b00882c464022a6d649a6402edd74f636f81686d9a6cd133ac948fccf133ef"
+    },
+    {
+     "from": "2018-11-08",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f95da71921aa49a1194a3f4acb3a3a9f7925af0bc7cfb19bf6d595de3c573284"
+    },
+    {
+     "from": "2018-11-30",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "224ba7c003952c17ffeb2a81c54d2f462f097c8056e92aae8a39a10cf75c5500"
+    },
+    {
+     "from": "2018-12-10",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e51814785936981f92aab290421ab4a8f7be8a05170815a1b160a7b861e942ed"
+    },
+    {
+     "from": "2018-12-19",
+     "units": 102,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a52ecc4317c9d02c1afa0bda9c5a552e19bdb8780afd486b3904305e5712ed7c"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "718cd4ecfe359185eb5741c9106303c15b115a1c4cb8b9e47fcd7de0a0a5c4e8"
+    },
+    {
+     "from": "2018-12-31",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "d02616e445dc452fa6ea7bb92e007ebb1fcfa74dba259852642ab62bca0cc682"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2019-02-27",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "5d8048e2ede2445c9d93968023d775fa8d5df471dd2dd622f1ee31229fafa9f4"
+    },
+    {
+     "from": "2019-03-12",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f4cd377b5f5a33b2d9332ecf38d5c78543465c90461f4775b50cf872ab479dd6"
+    },
+    {
+     "from": "2019-03-29",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "985a127305ca95fa5f3d932b087428a4c5cf67b02e2e5ce1358e3142d55ca975"
+    },
+    {
+     "from": "2019-04-10",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "d4be1eb8c95ac9ce2a2e976362dd0bb4893cad69cb491fe15149ba1e2f90cd4e"
+    },
+    {
+     "from": "2019-05-08",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ca0e7d31792539a046a9406d17e7414ada4816b297bd5fe54a2c1f9981b96af6"
+    },
+    {
+     "from": "2019-06-13",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6ee9021cae3a36a133789b1e4073dcb02f352ce932fe4d19e6a48adf1e8a219b"
+    },
+    {
+     "from": "2019-06-19",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3c282c8778d9c15510e8c4fb50e11fda7174af5b903f2e3f4e13760d2b3cdff0"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a832f01018f98445d3775cd727d162e8e569e9c2bf14a91293b80b74d9edcc4b"
+    },
+    {
+     "from": "2019-07-02",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b063f92ad30baca77603bb20916b46732e8c4282b8a71cb0ec8048f45840f9c3"
+    },
+    {
+     "from": "2019-09-19",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "49e8e08e69a1464bc99afc81693c0dffd3f92d250d18a6e791e60da84c9fc6b4"
+    },
+    {
+     "from": "2019-09-23",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "efe588c44690194d850bc242d223782264b3665effe764c7c34e68c6720bb556"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3b5131fb9b503127f00a7553497bf0272fafdf78221c7a76bde979d13e4cba3b"
+    },
+    {
+     "from": "2019-09-30",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "983426793b4147a36d6e86201cf6baa7f5d2cf2acb34e82db707137117fa3fe3"
+    },
+    {
+     "from": "2019-11-07",
+     "units": 92,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "0fe1c8a471d7799d949c6022efcf924f31cb0b39eb9fe04056f5c11a3956ddda"
+    },
+    {
+     "from": "2019-11-08",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "15afa6e4e487f7bc56a5c8e083c59cf3c2e998392b5838c9e69f79cda4a8e05c"
+    },
+    {
+     "from": "2019-11-19",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "87fb6c9d02508fa73b2dafe8632bed5a8b7e4699fa8548d9526c65ba0c1f3543"
+    },
+    {
+     "from": "2019-12-10",
+     "units": 108,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "da25b27e160ff3c0e8761530a5e2f5a7ac3face87a12f05c49daedfe7f0db7f0"
+    },
+    {
+     "from": "2019-12-16",
+     "units": 116,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "8787eff11abc0cf47b2ba10cd27fa932fcab254265b56568f5bd68fe279c4fac"
+    },
+    {
+     "from": "2019-12-23",
+     "units": 117,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "55a88bf41e92b0875179f7e77f465fe5da278ba5be82a5784526469c05f6001f"
+    },
+    {
+     "from": "2019-12-27",
+     "units": 118,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b24c009a3f86293575ab1e8255e0e142451acf4e3fadc61f7240f12ecfa31da5"
+    },
+    {
+     "from": "2019-12-30",
+     "units": 119,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4a2bd1da4ce17ad11aa01e0ff607390578d409344449a1ef2adecc70f688afb0"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2020-01-10",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3d2b48126ce7698357d88bbc559afd707cd638d9bab38e97452060079db4a212"
+    },
+    {
+     "from": "2020-02-20",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7b4bfa33dbab109c6e7b5616d5dad37a090d2320f7ef226d7848d49b38c41a65"
+    },
+    {
+     "from": "2020-02-25",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "88d7e69ed510d9e2a89397927d4ca72689ab5ac608c1814019c7b84408bee988"
+    },
+    {
+     "from": "2020-03-18",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "657861a7c87605a70988357ca3624ef3c46fb202d48dc7a49babd32fc5b3b5d8"
+    },
+    {
+     "from": "2020-04-07",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "035595707d2ac88fb458a23ef6196ad8b634fff00cc28716c3dd8735a42f1ca6"
+    },
+    {
+     "from": "2020-04-08",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "686be24b5ca0c7dac90144c8a306014697419fb92fef87110cf39e591f4c9ae3"
+    },
+    {
+     "from": "2020-04-10",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "842f8121bf64fd9cf27b5a9146a70b9ed0b25ff3f92b682d61e78dc991136a35"
+    },
+    {
+     "from": "2020-06-01",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a8880a30225f3019783578954a98ce792a6ede817ecb803a9513c2000954700e"
+    },
+    {
+     "from": "2020-07-14",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2df48452819d1d1d862c756920e60bc0809e899380475052445d2a9a7d616d87"
+    },
+    {
+     "from": "2020-07-17",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "868b41ff4ff9fbf38c6e3e000fdbfcb5b3fd01a7e39d099cbb0c83bfd42a370c"
+    },
+    {
+     "from": "2020-10-07",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f378e8779e5b6dac95df7c53b6e9d253c3d8ebf3b0d628adb2a23cf2f12a2178"
+    },
+    {
+     "from": "2020-11-12",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4317d490208bcd4a0e42e20b6532501462a315399f9a7404cef95347a12d18b4"
+    },
+    {
+     "from": "2020-11-18",
+     "units": 84,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3a5fb4e7573c218e91d4ac37aa911646700e7f578480518cfd1f33a54efb9311"
+    },
+    {
+     "from": "2020-12-11",
+     "units": 91,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "70478eec8704ee96295833359de928c0075b6353d22a1d7c1409cf7e7cbaf32e"
+    },
+    {
+     "from": "2020-12-15",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "dc6c5a114a681105da9879dc9a54b5c8a67cced3bf41a9a3e85c9e822910b141"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9ad753286d31b767aaec773e92a3b7794dbea17478020de61f790af42fe10243"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2021-01-03",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f8772c4b0f7e0dbda29ec4dad3399a885e21cadba342e547137d75aaec644432"
+    },
+    {
+     "from": "2021-02-12",
+     "units": 6,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "33bc1cc535f95e8773eca78cba67b7bc4cc0e5f2de4da8ef3a4a00d8be83803b"
+    },
+    {
+     "from": "2021-02-15",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "cae3ec6a21ecb332d834e1e87a95481e69d70e2d636ee521bd170e08888b005e"
+    },
+    {
+     "from": "2021-03-18",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "1ffc7f5683224ade3046910856d4908f3a0207dc7c90b6009d1691526c43bdfb"
+    },
+    {
+     "from": "2021-03-19",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "d9c3f4ab0dc76a74c2242633c22866f242be9d2bd8b8567c9dbaab66adaa1857"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 16,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2e7e22f2fb6fb02581b8b90805222c9f6224b71330747716e252bd7268d42dfd"
+    },
+    {
+     "from": "2021-04-13",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bebb02df499160e913badb3d36e411049ab437767a1cc2c723e8bf24056af0f3"
+    },
+    {
+     "from": "2021-05-11",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7daa7e07b638ca67e3860b1ee8a2446310a204eb42f0a8ebe17e7e3fd4abb6ea"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "72c131c211ecc2d4c87d240ba0fc8e53bc8707426d05dc648f00c47313ecccef"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 55,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b3030efbc7b695ddbd00b7edb2de7e0290cf3ddc0b1005e7c15401bb914de038"
+    },
+    {
+     "from": "2021-07-02",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4a4d2d6bd0534a07562c0fcd1dc49ba3fa94af8ec94d03a5af56305d6d08a3f9"
+    },
+    {
+     "from": "2021-07-09",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2b10cd2369662ca734fc1215155d6e806d247bd4d55106745520b3e93ddd4806"
+    },
+    {
+     "from": "2021-11-10",
+     "units": 66,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6cee34f700ff77a016a3bc24b92af32457b3cf7e9cb029e4ae57a0a6b6bf4fd2"
+    },
+    {
+     "from": "2021-11-12",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "02bac243b02762c390792c9deb4c176f7c4bbdf42214673f127592d901060195"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 85,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "cab8fd39db5e3ce6babf6e4fe3784c8a992ed890aaf8e1091cf6c2d56fa07b9e"
+    },
+    {
+     "from": "2021-12-16",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "0730b0d0a46d49185ecd912a248986bfbaa1e9eb2a7e84caf6a6b79078c2d139"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2022-01-05",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bfb66e9b8e8c41b2899171b6d1d2ead557a24c8ec5bb943451730f965e2d7765"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e7ca970137488133a743ac1adfbe8b66f508b719f2a55ef2c2914fddda90a119"
+    },
+    {
+     "from": "2022-03-04",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a276638a1e2685eaa96610b6413b7b6131670a84e1259c23074ce4ada4a9a570"
+    },
+    {
+     "from": "2022-03-05",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "55ff4e584790a1b10d49d79a7d8bee929a0c435008ca558944a1b90439bf9ede"
+    },
+    {
+     "from": "2022-04-14",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ed3039d20f1102ed39eddf8227c143474465e057a871be1c4515d444f67b3982"
+    },
+    {
+     "from": "2022-05-05",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a5ba77f4f954a83bb22a30b803092c937976aabc6976661695b28f3cbc17854e"
+    },
+    {
+     "from": "2022-06-08",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "65a23623ff1b069d47f2e4a70b1e23f2f895d907089a31362857f8d6e021dc7e"
+    },
+    {
+     "from": "2022-06-16",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "33c4a6321c7bfd0f093fa1151a9b2f2a3f01a4dc89e72110f7ee7fbdf536bb0e"
+    },
+    {
+     "from": "2022-06-24",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "91ca6cf333170e6536bbf3ac1e298164df599ea10705e369fd7cc398fe12291e"
+    },
+    {
+     "from": "2022-06-27",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2d01215e22c5fdec38f61ad2a4d864aff4e2a4b755c5b52715ce916377ba0727"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 60,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6f603a34a88b62358647ce95a060a87570ab03bba5a68c8bf67f528e1d5e8faa"
+    },
+    {
+     "from": "2022-07-14",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "8c84e8ae9eccd231ef1f6e47254667a94aa9dde8a73db9ed2fa62cd372a6f890"
+    },
+    {
+     "from": "2022-07-18",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "5828ab45307aacfb2f1a12763fa9f99591031bed29be84834f8bb9dc90cdbdf0"
+    },
+    {
+     "from": "2022-10-20",
+     "units": 82,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6882d56aa65b52f4f351f7002a2f1baf1a49535f65b41b75c43eec615724b062"
+    },
+    {
+     "from": "2022-11-01",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "59f75c1a6331938c08b8095f16afb49be15350ad79f9c6b932edd477cb42e0f3"
+    },
+    {
+     "from": "2022-11-07",
+     "units": 93,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "67c284ed66f9a79c6d45a235f225c2b7755abe9ade3807df9dad74b722e1c98d"
+    },
+    {
+     "from": "2022-11-17",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "fbb75f9fa878222933b09dc644255056e58b6836d85ef189e9a5c870f2c9cd8c"
+    },
+    {
+     "from": "2022-11-25",
+     "units": 96,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "515c87d2f184923eb3f3304462278625c327b1f38c13850425f4b88ed29dafd2"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 99,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ec5ae76c5b26774076fb22b97483542715dca714f0ff6b33ecdfe5bb2191db5e"
+    },
+    {
+     "from": "2022-12-14",
+     "units": 105,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2dc89a43b9ef8259a9079dcb4dfc4bbd32d348c541737bb6015cc51fccaabd44"
+    },
+    {
+     "from": "2022-12-30",
+     "units": 109,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "cc4b4f94a4752b5895b05ee0b770ecd392351415c2fcf27ea86e1685e790fb0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2023-02-10",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "853577a24c4a1611b896b11ba6832a392d804e6b1ad3b55ce799bf99a1bba2f5"
+    },
+    {
+     "from": "2023-03-10",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3c4ea11ccdf5504e3e6a44cd5bd35aee9011e179ea180284435c55a0e21a3a55"
+    },
+    {
+     "from": "2023-03-20",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f32549163fa22a20238bcceaee762ad6b03fb9e36dd717cfe6a2ae88264fd3ad"
+    },
+    {
+     "from": "2023-04-14",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "3c9f485c165050df64bfa454662738fa1e7e47ad8744f48c6f9ffbfce29eadc2"
+    },
+    {
+     "from": "2023-04-18",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "22c4cfb2c3d1b858c1ee29f4c6fe546c94f692b704bc28334d93f669ce94ee36"
+    },
+    {
+     "from": "2023-04-24",
+     "units": 31,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2d0539220ae97a7323fed033484746cae96d5f4bc8cd0fb127c475714b864798"
+    },
+    {
+     "from": "2023-05-11",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "52643d81ef1a7aa56deaf7a64fafcbd66160866fb29ca8076d2a826abe4a90ac"
+    },
+    {
+     "from": "2023-06-01",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a047461d2f1b679aabec6935593b09376ae8f2a747638be87426495d5d0c6030"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e96f018c855817e2644af52783d12e1bbf1e6aea499a29b85d018909103e5b99"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "66d380080bc3bdfa355f92a523f777f0089c8bf75f87e09b6c5e7fe242fd4164"
+    },
+    {
+     "from": "2023-07-18",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4a7bd0f714dd229caf8d5f502e112d9ba5fd3c6e2565e378f8864e2ee89bbe96"
+    },
+    {
+     "from": "2023-10-11",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "c5be4b8efb6263b2f34f0e9b85090cc24d8c7e8387212487aac1a79bf972d6be"
+    },
+    {
+     "from": "2023-10-12",
+     "units": 70,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "45437020723fb4cc40d72f5b6bc9e4eb090657e8befa43a2a06eee6bf342986f"
+    },
+    {
+     "from": "2023-11-14",
+     "units": 72,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "13a6c0f233eaf1c8cb405c8da54ef445564b7dca92cf5831848df72d9418bea4"
+    },
+    {
+     "from": "2023-11-16",
+     "units": 79,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "944416ead0fbcd773c8eca073bfdf18c3e959c5fe18171ba32e8f79f528aa872"
+    },
+    {
+     "from": "2023-12-15",
+     "units": 86,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4e5c3830f44e1f71cb25643aaf15ecf94336942a6379722c732af68d4914e67e"
+    },
+    {
+     "from": "2023-12-27",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "52d4a2b5d50242d6b2b6c23af4dc17ec1b9a993bdf2ce52209b71f7de61b49d8"
+    },
+    {
+     "from": "2023-12-28",
+     "units": 88,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bb9f56d91539ce9cb178bcc25869a0b4f666ce2d428d4fc6133c4da904f117ac"
+    },
+    {
+     "from": "2023-12-29",
+     "units": 90,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bcbd89ff207676b2198dc5cd99567e6495e4cebf65b00558b2dcad8f11d6a429"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e5360aa8d6ac00705c67532c49476fbf6e09647c45b6c9a48360393d54e050d8"
+    },
+    {
+     "from": "2024-02-05",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "c4b1badb7592978f5c2b3dd1ed341123c533dc9a317b855b3d3020263c062eb9"
+    },
+    {
+     "from": "2024-02-06",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "434f7b0491272e93a7236a848c45bf36043849dbab07e6109d1b3f6dba6b4e62"
+    },
+    {
+     "from": "2024-03-06",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9f1e8503b45a217e979849d4bf6fe31b86d5f399e32b1976bb90af1f033a6bc1"
+    },
+    {
+     "from": "2024-03-11",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4e8997c1dd8c7239ae7747b045b59d487da70ed6751275d8725dd0ce31ee1099"
+    },
+    {
+     "from": "2024-04-08",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "04c28810572698bca23119549b0b9c72eb6cb25aaa0251a2c5b93a83c774b49f"
+    },
+    {
+     "from": "2024-04-10",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4cb29df204aa21c5958ea71af6231fd1cda98d8f1a7c318c0785ba0a4029cb5e"
+    },
+    {
+     "from": "2024-05-08",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "24bef1dc6b5d69b0065e9ece955df7aa701d04bbe819bfedfa1727e89ad0c051"
+    },
+    {
+     "from": "2024-05-14",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e6c1851148e90a0d5209ee239a0b95656170343066bea2867427083c3e388615"
+    },
+    {
+     "from": "2024-06-11",
+     "units": 57,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6f8a5d6ba0aa9a88d06f2c7d0efd4b103076b22e0723fe5a2b1e3670adf1ec69"
+    },
+    {
+     "from": "2024-06-17",
+     "units": 59,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "630dc44b69d19297fa5f84674333410f5657ab10051838734283aa70c83739bd"
+    },
+    {
+     "from": "2024-07-08",
+     "units": 71,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e8fae4e1ef90b7ffa6af5255d6e51355cea2d3b06b90c3b955c6cef0c4090c2d"
+    },
+    {
+     "from": "2024-10-14",
+     "units": 83,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "ce3e63fec00dd4e5990ab44c104c5f5c480b2fa18cf3bd78676eb9ee1e256da1"
+    },
+    {
+     "from": "2024-11-14",
+     "units": 87,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bbcf9f21a86c0d9ae62c2860598955880a2f18c9dce9c5daa9462c0da06f9554"
+    },
+    {
+     "from": "2024-11-15",
+     "units": 95,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2fd1cb4ee1c6cd57d5ec9bcd149f162e801f07ffce283c71169391d849ed6c68"
+    },
+    {
+     "from": "2024-12-09",
+     "units": 100,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "4a08dbd11d48a4dae9ae5268f833531ad1ed917293f2f8dac6dc9d221cbfe15a"
+    },
+    {
+     "from": "2024-12-13",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "24d9bcd0e7d414e04407a0f1f47399aebc4e30d21ee687cdec85e9eca3b2522a"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 107,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e88a64df37f59986d1f6a433e38053392648e4fcf3c39b6d916e73477460edf9"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 112,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "e4769f26f4f2da838dbfc13b313c984b756106237d590590afd005e8e4ba06a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2025-02-11",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "60d32e22ab3a263c6e0e5d8e22bd5fe467b15fa13f7d3494366ad04b9473392b"
+    },
+    {
+     "from": "2025-02-14",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "a0a352e08c58aafc9e4210608619c67f8f3a9152c640d58ed7224359d7e8289a"
+    },
+    {
+     "from": "2025-03-04",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "0286b1c6c3a7422d467a1920d7196124517638bb979c58fda99f851df01ce473"
+    },
+    {
+     "from": "2025-04-03",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "99a626a96f0aec48c2022ba91799cb86a8d5f50c152d3f3a743c18a6a10b2d52"
+    },
+    {
+     "from": "2025-04-09",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "86e3136a1f79fd983a82de1ccb0ec07320b4e2428a447688b2d5e85edc5b0464"
+    },
+    {
+     "from": "2025-04-11",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "69017dbe8c98c5c5ab266a162a992ad6673b720e556f104b01d705ee28188da2"
+    },
+    {
+     "from": "2025-04-30",
+     "units": 24,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "42f8a516742df8ace52b8470f6e3c39bd02242a4df7e205339ea3a8c0a34e5e5"
+    },
+    {
+     "from": "2025-05-07",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "02752af76c5590bd0ad38655c64d49af06f45dd0be5f9523e6c0798455d172bf"
+    },
+    {
+     "from": "2025-05-12",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9e69936f598a9480c1d596f69722f6c9c96e4b36a7ca6705d94fa5d14372e85f"
+    },
+    {
+     "from": "2025-06-02",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "844acbec113e3b82083c995bbf7e39edf44844f73cf03d4e21fc42ee9cd0673b"
+    },
+    {
+     "from": "2025-06-03",
+     "units": 45,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "7edfd752744c23274870c735b4f7ed977393ce266a21cc523f3573d74b8fc2ff"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f577f7e5fe1bd9d71bcaaad2e3158dfbb7883fa517416cf1c9b793c9a31057fd"
+    },
+    {
+     "from": "2025-07-03",
+     "units": 62,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b7f86a06cc9847cfef8c1c23769603d2a70f6fd88a8011008eacbd5b8c3c923d"
+    },
+    {
+     "from": "2025-10-03",
+     "units": 69,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "bfee8a9493030849468a34d8d2051daf66ce499f1fb805bcee2a82d4e4a73af8"
+    },
+    {
+     "from": "2025-10-07",
+     "units": 73,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "85c9a66a7973c2ffd54e32b41886e8cb14510b55cfca8b9024f4b2c218270344"
+    },
+    {
+     "from": "2025-11-11",
+     "units": 78,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "6184b8d10b1bd8217218e5997d70f14bd8ba9fed09136e1dff727b8899fead59"
+    },
+    {
+     "from": "2025-11-12",
+     "units": 89,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2ceca65d3280b20570a06762642609c222c68152c87cd002426015234e32fc05"
+    },
+    {
+     "from": "2025-12-15",
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "0b9b0ecd334e0d637cd4de92b88602902184c1244701677f8d76c73f4f4fae05"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 103,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "c5c66ac88c929112033553b6ceba34ced2ab9891573519fa9ef8005e4bb1fe54"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Dagestan: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region05",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "06f2829612a516b54957d6abbae1c374ae6a5fe1001544dfcc1d624986f29f09"
+    },
+    {
+     "from": "2026-03-06",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "c42573fc7fd290474b3646f09380c61b0f26cb24df8dbc2637eab2fe8ffeb966"
+    },
+    {
+     "from": "2026-03-16",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "9b141b9cfc4d32959870b6a8f4009c5fc61a81278ca8ee31b31ee221dd070cb7"
+    },
+    {
+     "from": "2026-04-07",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "0a6f76586d038f4eb0fcd92ac672dda7f4c25c520f6e227e2d620bdb22e2d1b4"
+    },
+    {
+     "from": "2026-04-27",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "f0988ef9f516c51206a8e589b53a2f3d5c1be6aa372817014420268e2bb8109d"
+    },
+    {
+     "from": "2026-05-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "b99be02fb6154ddc17bd7751d75b6e9f9ea21fa26f7dc430eef859bd8b1af531"
+    },
+    {
+     "from": "2026-05-25",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "1cabac4ddf7c899a97e307fffbd7deaff286d6ff1fe50996ff8cc9b0cf0ff395"
+    },
+    {
+     "from": "2026-06-30",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region05",
+     "sha256": "2e51e69fe17be4edc03fffd708088752a229417aa266549fa6e5633928da08ef"
+    }
+   ]
+  }
+ ]
+}
