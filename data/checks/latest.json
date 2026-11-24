@@ -1,0 +1,92 @@
+{
+ "generated": "2026-11-24T13:35:52Z",
+ "latest": {
+  "pravo-dagestan|russia/dagestan/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1091,
+    "current": 1086,
+    "gone": 0,
+    "held": 1086,
+    "newest_in_repo": "2026-06-30",
+    "pending": 5,
+    "repo": 1086,
+    "source_in_scope": 1091
+   },
+   "check_id": "ru-pravo-dagestan-20261124T132800Z",
+   "commits": {
+    "count": 3,
+    "from": "77ee88c8fef19c62602408d0d5c3c628b2d7322a",
+    "to": "95fe0d26a8a630b7a41cf5a9b18625edd03a8966"
+   },
+   "corpus": "russia/dagestan/acts",
+   "error": null,
+   "finished": "2026-11-24T13:35:51Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region05: 1091 law-type documents listed (every page read); 1086 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "0500202611100003",
+     "0500202611100007",
+     "0500202611100010",
+     "0500202611100015",
+     "0500202611120006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 11,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "0500202611100003",
+     "0500202611100007",
+     "0500202611100010",
+     "0500202611100015",
+     "0500202611120006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1091 law-type documents in block region05; newest published 2026-11-12",
+   "source": "pravo-dagestan",
+   "started": "2026-11-24T13:28:00Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 2,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 11,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 11,
+    "versions_checked": 202,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
