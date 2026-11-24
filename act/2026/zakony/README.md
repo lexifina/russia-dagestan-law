@@ -1,6 +1,6 @@
 # Republic of Dagestan: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 8 versions, from 2026-02-12 (latest in force: 2026-06-30) · <http://publication.pravo.gov.ru/documents/block/region05>
+Законы 2026 · 10 versions, from 2026-02-12 (latest in force: 2026-11-12) · <http://publication.pravo.gov.ru/documents/block/region05>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -66,5 +66,10 @@
 | Закон № 7 | [7.md](7.md) | 0 |  |
 | Закон № 70 | [70.md](70.md) | 1 | 2026-06-30 |
 | Закон № 71 | [71.md](71.md) | 1 | 2026-06-30 |
+| Закон № 72 | [72.md](72.md) | 1 | 2026-11-10 |
+| Закон № 73 | [73.md](73.md) | 1 | 2026-11-10 |
+| Закон № 74 | [74.md](74.md) | 1 | 2026-11-10 |
+| Закон № 75 | [75.md](75.md) | 1 | 2026-11-12 |
+| Закон № 76 | [76.md](76.md) | 1 | 2026-11-10 |
 | Закон № 8 | [8.md](8.md) | 0 |  |
 | Закон № 9 | [9.md](9.md) | 0 |  |

@@ -1,11 +1,11 @@
 {
-  "path": "ru-da",
-  "code": "RU-DA",
-  "name": "Republic of Dagestan",
-  "level": "region",
-  "parent": "ru",
-  "repo": "https://github.com/lexifina/russia-dagestan-law",
-  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
-  "language": "ru",
-  "sources": 1
+ "path": "russia/dagestan",
+ "code": "RU-DA",
+ "name": "Republic of Dagestan",
+ "level": "region",
+ "parent": "russia",
+ "repo": "https://github.com/lexifina/russia-dagestan-law",
+ "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+ "language": "ru",
+ "sources": 1
 }

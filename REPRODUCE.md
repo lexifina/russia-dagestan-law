@@ -1,6 +1,6 @@
 # How this repository was made (Republic of Dagestan)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -34,21 +34,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `zakony-2023` | Republic of Dagestan: catalogue of the laws published in 2023 (facts only, no law text) | 19 | 2023-02-10 to 2023-12-29 |
 | `zakony-2024` | Republic of Dagestan: catalogue of the laws published in 2024 (facts only, no law text) | 19 | 2024-01-03 to 2024-12-28 |
 | `zakony-2025` | Republic of Dagestan: catalogue of the laws published in 2025 (facts only, no law text) | 19 | 2025-02-11 to 2025-12-30 |
-| `zakony-2026` | Republic of Dagestan: catalogue of the laws published in 2026 (facts only, no law text) | 8 | 2026-02-12 to 2026-06-30 |
+| `zakony-2026` | Republic of Dagestan: catalogue of the laws published in 2026 (facts only, no law text) | 10 | 2026-02-12 to 2026-11-12 |
 
-The build made 200 commits:
+The build made 202 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 11 | first version of an act |
-| 189 | one law on its in-force day |
+| 11 | baseline texts where the record starts |
+| 191 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-24.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 189 laws in the record.
-- 389 tags.
+- 191 laws in the record.
+- 393 tags.
 
 ## Dates
 
@@ -60,13 +62,13 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `066f83ca1667303042597a2991dda8075cba1caa23725a7904ec981601279568` (967529 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `65beb9b12d02439aed256f5910b3360f535315af9fac4e6826f8c4d3a525fa1d` (1025004 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-200 versions of 11 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -141,7 +143,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

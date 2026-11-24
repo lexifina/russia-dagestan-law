@@ -1,0 +1,17 @@
+{
+ "corpus": "ru/dagestan/acts",
+ "path": "russia/dagestan/acts",
+ "scope": "selected-acts",
+ "acts": 11,
+ "future_branch": "future",
+ "publisher": "Официальный интернет-портал правовой информации (publication.pravo.gov.ru)",
+ "name": "Republic of Dagestan",
+ "language": "ru",
+ "coverage": "11 acts of Republic of Dagestan with every dated version the source gives (202 versions), in force from 2016-03-14 to 2026-10-30",
+ "history": "in-force",
+ "history_from": "2016-03-14",
+ "record_to": "2026-10-30",
+ "checked_on": "2026-11-24",
+ "record_note": "Texts from Официальный интернет-портал правовой информации (publication.pravo.gov.ru).",
+ "in_force_trailer": "In-force"
+}
