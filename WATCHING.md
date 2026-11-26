@@ -6,6 +6,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [Republic of Dagestan: Official Internet Portal of Legal Information (region05)](http://publication.pravo.gov.ru/documents/block/region05) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-25 05:23 UTC | watched |
+| [Republic of Dagestan: Official Internet Portal of Legal Information (region05)](http://publication.pravo.gov.ru/documents/block/region05) | every page of the subject's law-type documents (metadata API), each check | `zakony-<year>/` | daily | 2026-11-26 05:23 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
