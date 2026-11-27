@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:15:43Z",
+ "generated": "2026-11-27T06:08:19Z",
  "latest": {
   "pravo-dagestan|russia/dagestan/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1091,
     "source_in_scope": 1091
    },
-   "check_id": "ru-pravo-dagestan-20261126T052342Z",
+   "check_id": "ru-pravo-dagestan-20261127T051945Z",
    "commits": null,
    "corpus": "russia/dagestan/acts",
    "error": null,
-   "finished": "2026-11-26T05:24:13Z",
+   "finished": "2026-11-27T05:20:17Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region05: 1091 law-type documents listed (every page read); 1091 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1091 law-type documents in block region05; newest published 2026-11-12",
    "source": "pravo-dagestan",
-   "started": "2026-11-26T05:23:42Z",
+   "started": "2026-11-27T05:19:45Z",
    "unexplained": 0,
    "update": {
     "parts": []
