@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Republic of Dagestan only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 05:20 UTC, Republic of Dagestan: Official Internet Portal of Legal Information (region05): 9 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 05:29 UTC, Republic of Dagestan: Official Internet Portal of Legal Information (region05): 9 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Republic of Dagestan: Official Internet Portal of Legal Information (region05)](http://publication.pravo.gov.ru/documents/block/region05) | `zakony-<year>/` | daily | 2026-11-27 05:20 UTC | no change | watched |
+| [Republic of Dagestan: Official Internet Portal of Legal Information (region05)](http://publication.pravo.gov.ru/documents/block/region05) | `zakony-<year>/` | daily | 2026-11-28 05:29 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:28](checks/2026-11.md#ru-pravo-dagestan-20261128t052841z) | pravo-dagestan | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-27 05:19](checks/2026-11.md#ru-pravo-dagestan-20261127t051945z) | pravo-dagestan | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:23](checks/2026-11.md#ru-pravo-dagestan-20261126t052342z) | pravo-dagestan | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 05:23](checks/2026-11.md#ru-pravo-dagestan-20261125t052303z) | pravo-dagestan | 9 | 0 | 0 | 0 | 0 (0) | no change | — |
